@@ -1,2 +1,6 @@
 # Face_recognition
-This paper explores a method that computers "see" the world, called Sparse Representation Based Face Recognition. The best result achieves more than 97% accuracy and takes less than 0.04 seconds on average to recognize a test face. 
+![屏幕快照 2018-11-17 下午8.27.12](/Users/fernando/Desktop/屏幕快照 2018-11-17 下午8.27.12.png)
+
+![屏幕快照 2018-11-17 下午8.27.19](/Users/fernando/Desktop/屏幕快照 2018-11-17 下午8.27.19.png)
+
+![屏幕快照 2018-11-17 下午8.27.28](/Users/fernando/Desktop/屏幕快照 2018-11-17 下午8.27.28.png)
